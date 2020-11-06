@@ -1,0 +1,44 @@
+Node ID: bd11b49433615dbe
+Debian 10.6 (Linux 4.19.0-11-amd64)
+AMD EPYC 7601 32-Core Processor 2 Cores
+3.85 GB RAM
+512 MB Swap
+
+13:50 27 of October
+p2p_client-cli 4% 928 MB
+middleware 0.31% 31 MB
+13.54GB
+
+23:30 28 of October
+p2p_client-cli 4% 1 GB
+dockerd 0.44% 58 MB 
+middleware 0.31% 32 MB
+14.63GB
+
+12:59 30 of October
+p2p_client-cli 4% 1.03 GB
+dockerd 0.38% 55 MB
+15.83GB
+
+15:03 31 of October
+p2p_client-cli 4% 1.05 GB
+dockerd 0.36% 32 MB
+16.21GB
+
+19:13 04 of November
+p2p_client-cli 4% 1.19 GB
+dockerd 0.44% 54 MB
+middleware 0.32% 33 MB
+18.73GB
+
+14:18 05 of November
+p2p_client-cli 4% 1.22 GB
+dockerd 0.43% 54 MB
+middleware 0.35% 35 MB
+19.81GB
+
+21:10 06 of November
+p2p_client-cli 4% 1.25 GB
+dockerd 0.42% 54 MB
+middleware 0.32% 33 MB
+20.93GB
